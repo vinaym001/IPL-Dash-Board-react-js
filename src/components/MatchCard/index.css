@@ -1,0 +1,23 @@
+@media screen and (min-width:768px){
+    
+}
+.match-card {
+  background-color: #1e293b;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  font-family: 'bree serif';
+  color: white;
+  width: 25%;
+  height: 40%;
+  text-align: center;
+}
+.green{
+    color: #18ed66;
+}
+.red{
+    color:  #e31a1a;
+}
